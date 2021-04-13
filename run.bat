@@ -1,0 +1,2 @@
+cd D:\Materials\Selenium\RestAssured\restassuredemployeeproject\RestassuredAPITesting_Employee_Project
+mvn clean install
